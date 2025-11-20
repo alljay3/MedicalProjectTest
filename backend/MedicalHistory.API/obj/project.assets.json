@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.API\\MedicalHistory.API.csproj",
+      "projectUniqueName": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\MedicalHistory.API.csproj",
       "projectName": "MedicalHistory.API",
-      "projectPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.API\\MedicalHistory.API.csproj",
+      "projectPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\MedicalHistory.API.csproj",
       "packagesPath": "C:\\Users\\mihas\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.API\\obj\\",
+      "outputPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio 2022 packages\\NuGetPackages"

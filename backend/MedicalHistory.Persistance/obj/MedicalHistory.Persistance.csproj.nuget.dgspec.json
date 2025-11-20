@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj": {}
+    "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj": {
+    "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
+        "projectUniqueName": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
         "projectName": "MedicalHistory.Persistance",
-        "projectPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
+        "projectPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
         "packagesPath": "C:\\Users\\mihas\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Persistance\\obj\\",
+        "outputPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Visual Studio 2022 packages\\NuGetPackages"
@@ -49,6 +49,18 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

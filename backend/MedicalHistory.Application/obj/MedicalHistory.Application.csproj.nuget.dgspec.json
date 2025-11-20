@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj": {}
+    "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj": {
+    "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj",
+        "projectUniqueName": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj",
         "projectName": "MedicalHistory.Application",
-        "projectPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj",
+        "projectPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj",
         "packagesPath": "C:\\Users\\mihas\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProject\\backend\\MedicalHistory.Application\\obj\\",
+        "outputPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Visual Studio 2022 packages\\NuGetPackages"
