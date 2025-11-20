@@ -8,9 +8,8 @@ public class Patient
     public string Patronymic { get; set; } = string.Empty;
     public string Gender { get; set; } = string.Empty;
     public DateTime BirthDate { get; set; }
-    public List<Disease> Diseases { get; set; } = new List<Disease>();
 
-    public Patient(Guid patientId, string firstName, string lastName, string patronymic, string gender, DateTime birthDate, List<Disease> diseases)
+    public Patient(Guid patientId, string firstName, string lastName, string patronymic, string gender, DateTime birthDate)
     {
         Id = patientId;
         FirstName = firstName;
@@ -18,11 +17,10 @@ public class Patient
         Patronymic = patronymic;
         Gender = gender;
         BirthDate = birthDate;
-        Diseases = diseases;
     }
 
-    public static Patient Create(Guid patientId, string firstName, string lastName, string patronymic, string gender, DateTime birthDate, List<Disease> diseases)
+    public static Patient Create(Guid patientId, string firstName, string lastName, string patronymic, string gender, DateTime birthDate)
     {
-        return new Patient(patientId, firstName, lastName, patronymic, gender, birthDate, diseases);
+        return new Patient(patientId, firstName, lastName, patronymic, gender, birthDate);
     }
 }

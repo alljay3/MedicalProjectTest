@@ -125,26 +125,16 @@ namespace MedicalHistory.Persistance.Migrations
             modelBuilder.Entity("MedicalHistory.Persistance.Entities.DiseaseEntity", b =>
                 {
                     b.HasOne("MedicalHistory.Persistance.Entities.DoctorEntity", "AttendingDoctor")
-                        .WithMany("Diseases")
+                        .WithMany()
                         .HasForeignKey("AttendingDoctorId");
 
                     b.HasOne("MedicalHistory.Persistance.Entities.PatientEntity", "CurrentPatient")
-                        .WithMany("Diseases")
+                        .WithMany()
                         .HasForeignKey("CurrentPatientId");
 
                     b.Navigation("AttendingDoctor");
 
                     b.Navigation("CurrentPatient");
-                });
-
-            modelBuilder.Entity("MedicalHistory.Persistance.Entities.DoctorEntity", b =>
-                {
-                    b.Navigation("Diseases");
-                });
-
-            modelBuilder.Entity("MedicalHistory.Persistance.Entities.PatientEntity", b =>
-                {
-                    b.Navigation("Diseases");
                 });
 #pragma warning restore 612, 618
         }

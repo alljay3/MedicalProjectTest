@@ -10,8 +10,5 @@ public class DiseaseConfiguration : IEntityTypeConfiguration<DiseaseEntity>
     {
         builder.HasKey(p => p.Id);
 
-        builder.HasOne(d => d.AttendingDoctor).WithMany(doc => doc.Diseases);
-
-        builder.HasOne(p => p.CurrentPatient).WithMany(doc => doc.Diseases);
     }
 }

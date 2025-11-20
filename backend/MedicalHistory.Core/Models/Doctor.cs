@@ -9,9 +9,8 @@ public class Doctor
     public string Specialization { get; set; } = string.Empty;
     public string Gender { get; set; } = string.Empty;
     public DateTime BirthDate { get; set; }
-    public List<Disease> Diseases { get; set; } = new List<Disease>();
 
-    public Doctor(Guid doctorId, string firstName, string lastName, string patronymic, string specialization, string gender, DateTime birthDate, List<Disease> diseases)
+    public Doctor(Guid doctorId, string firstName, string lastName, string patronymic, string specialization, string gender, DateTime birthDate)
     {
         Id = doctorId;
         FirstName = firstName;
@@ -20,11 +19,10 @@ public class Doctor
         Specialization = specialization;
         Gender = gender;
         BirthDate = birthDate;
-        Diseases = diseases;
     }
 
-    public static Doctor Create(Guid doctorId, string firstName, string lastName, string patronymic, string specialization, string gender, DateTime birthDate, List<Disease> diseases)
+    public static Doctor Create(Guid doctorId, string firstName, string lastName, string patronymic, string specialization, string gender, DateTime birthDate)
     {
-        return new Doctor(doctorId, firstName, lastName, patronymic, specialization, gender, birthDate, diseases);
+        return new Doctor(doctorId, firstName, lastName, patronymic, specialization, gender, birthDate);
     }
 }

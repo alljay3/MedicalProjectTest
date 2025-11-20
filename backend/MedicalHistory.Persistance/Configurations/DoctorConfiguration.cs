@@ -9,6 +9,5 @@ public class DoctorConfiguration : IEntityTypeConfiguration<DoctorEntity>
     public void Configure(EntityTypeBuilder<DoctorEntity> builder)
     {
         builder.HasKey(doc => doc.Id);
-        builder.HasMany(doc => doc.Diseases).WithOne(d => d.AttendingDoctor);
     }
 }

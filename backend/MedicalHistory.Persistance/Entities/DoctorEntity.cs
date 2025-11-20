@@ -9,5 +9,4 @@ public class DoctorEntity
     public string Specialization { get; set; } = string.Empty;
     public string Gender { get; set; } = string.Empty;
     public DateTime BirthDate { get; set; }
-    public List<DiseaseEntity> Diseases { get; set; } = new List<DiseaseEntity>();
 }

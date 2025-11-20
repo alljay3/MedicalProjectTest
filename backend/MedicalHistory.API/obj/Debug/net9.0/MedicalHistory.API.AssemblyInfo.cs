@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedicalHistory.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2cce063ed83bbd0b5f754856540d627e04a5b7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8337905fe88c400f0993d47c90ddfb3a4d558fc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedicalHistory.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedicalHistory.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

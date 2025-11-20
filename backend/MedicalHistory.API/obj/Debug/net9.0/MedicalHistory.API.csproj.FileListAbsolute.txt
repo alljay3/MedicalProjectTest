@@ -133,3 +133,8 @@ E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\o
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\obj\Debug\net9.0\MedicalH.E0C2E8C3.Up2Date
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Npgsql.dll
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\AutoMapper.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll

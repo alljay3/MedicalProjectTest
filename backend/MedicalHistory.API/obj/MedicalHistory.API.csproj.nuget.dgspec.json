@@ -251,7 +251,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\MedicalHistory.Core.csproj": {
+                "projectPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\MedicalHistory.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -270,6 +274,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.10, )"
