@@ -4,27 +4,27 @@ namespace MedicalHistory.Core.Models;
 
 public class Disease
 {
-    public Guid DiseaseId { get; set; }
+    public Guid Id { get; set; }
     public string Name { get; set; } = string.Empty;
-    public int PatientId { get; set; }
-    public int DoctorId { get; set; }
+    public Patient CurrentPatient { get; set; }
+    public Doctor AttendingDoctor { get; set; }
     public string Symptoms { get; set; } = string.Empty;
     public string Treatment { get; set; } = string.Empty;
     public DateTime DiagnosisDate { get; set; }
 
-    public Disease(Guid diseaseId, string name, int patientId, int doctorId, string symptoms, string treatment, DateTime diagnosisDate)
+    public Disease(Guid diseaseId, string name, Patient ñurrentPatient, Doctor attendingDoctor, string symptoms, string treatment, DateTime diagnosisDate)
     {
-        DiseaseId = diseaseId;
+        Id = diseaseId;
         Name = name;
-        PatientId = patientId;
-        DoctorId = doctorId;
+        CurrentPatient = ñurrentPatient;
+        AttendingDoctor = attendingDoctor;
         Symptoms = symptoms;
         Treatment = treatment;
         DiagnosisDate = diagnosisDate;
     }
 
-    public static Disease Create(Guid diseaseId, string name, int patientId, int doctorId, string symptoms, string treatment, DateTime diagnosisDate)
+    public static Disease Create(Guid diseaseId, string name, Patient ñurrentPatient, Doctor attendingDoctor, string symptoms, string treatment, DateTime diagnosisDate)
     {
-        return new Disease(diseaseId, name, patientId, doctorId, symptoms, treatment, diagnosisDate);
+        return new Disease(diseaseId, name, ñurrentPatient, attendingDoctor, symptoms, treatment, diagnosisDate);
     }
 }

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wMaqYtxtdiObcoZ/w7htzxO4M8Wg/3fegUh/xHgb63s=",
+  "Source": "MedicalHistory.API",
+  "BasePath": "_content/MedicalHistory.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

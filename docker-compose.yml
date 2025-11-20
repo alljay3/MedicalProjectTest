@@ -1,0 +1,15 @@
+services:
+  postgres:
+    container_name: medicaldb
+    image: postgres:16.9
+    environment:
+      POSTGRES_DB: "medical"
+      POSTGRES_USER: "alljay"
+      POSTGRES_PASSWORD: "4321"
+    volumes:
+      - "medical_data:/var/lib/postgresql/data"
+    ports:
+      - "5432:5432"
+
+volumes:
+  medical_data:

@@ -2,7 +2,7 @@ namespace MedicalHistory.Core.Models;
 
 public class Doctor
 {
-    public Guid DoctorId { get; set; }
+    public Guid Id { get; set; }
     public string FirstName { get; set; } = string.Empty;
     public string LastName { get; set; } = string.Empty;
     public string Patronymic { get; set; } = string.Empty;
@@ -13,7 +13,7 @@ public class Doctor
 
     public Doctor(Guid doctorId, string firstName, string lastName, string patronymic, string specialization, string gender, DateTime birthDate, List<Disease> diseases)
     {
-        DoctorId = doctorId;
+        Id = doctorId;
         FirstName = firstName;
         LastName = lastName;
         Patronymic = patronymic;

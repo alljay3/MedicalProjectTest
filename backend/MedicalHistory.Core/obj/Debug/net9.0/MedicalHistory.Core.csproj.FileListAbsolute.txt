@@ -1,0 +1,12 @@
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\bin\Debug\net9.0\MedicalHistory.Core.deps.json
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\bin\Debug\net9.0\MedicalHistory.Core.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\bin\Debug\net9.0\MedicalHistory.Core.pdb
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\MedicalHistory.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\MedicalHistory.Core.AssemblyInfoInputs.cache
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\MedicalHistory.Core.AssemblyInfo.cs
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\MedicalHistory.Core.csproj.CoreCompileInputs.cache
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\MedicalHistory.Core.sourcelink.json
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\MedicalHistory.Core.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\refint\MedicalHistory.Core.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\MedicalHistory.Core.pdb
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Core\obj\Debug\net9.0\ref\MedicalHistory.Core.dll

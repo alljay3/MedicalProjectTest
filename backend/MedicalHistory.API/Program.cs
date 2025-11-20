@@ -1,8 +1,18 @@
+using MedicalHistory.Persistance;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+var configuration = builder.Configuration;
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+var services = builder.Services;
+services.AddControllers();
+services.AddDbContext<MedicalHistoryDbContext>(
+    options =>
+    {
+        options.UseNpgsql(configuration.GetConnectionString(nameof(MedicalHistoryDbContext)));
+    });
 
 var app = builder.Build();
 
