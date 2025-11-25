@@ -1,0 +1,16 @@
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\bin\Debug\net9.0\MedicalHistory.Application.deps.json
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\bin\Debug\net9.0\MedicalHistory.Application.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\bin\Debug\net9.0\MedicalHistory.Application.pdb
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalHistory.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalHistory.Application.AssemblyInfoInputs.cache
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalHistory.Application.AssemblyInfo.cs
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalHistory.Application.csproj.CoreCompileInputs.cache
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalHistory.Application.sourcelink.json
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalHistory.Application.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\refint\MedicalHistory.Application.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalHistory.Application.pdb
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\ref\MedicalHistory.Application.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\bin\Debug\net9.0\MedicalHistory.Core.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\bin\Debug\net9.0\MedicalHistory.Core.pdb
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalHistory.Application.csproj.AssemblyReference.cache
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.Application\obj\Debug\net9.0\MedicalH.AD4A06D1.Up2Date

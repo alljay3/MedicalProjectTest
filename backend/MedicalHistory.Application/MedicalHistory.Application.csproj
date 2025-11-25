@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MedicalHistory.Core\MedicalHistory.Core.csproj" />
+  </ItemGroup>
+
 </Project>
