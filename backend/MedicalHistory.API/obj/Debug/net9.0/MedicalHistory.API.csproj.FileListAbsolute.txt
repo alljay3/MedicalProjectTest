@@ -139,3 +139,8 @@ E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\b
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\obj\Debug\net9.0\MedicalHistory.API.MvcApplicationPartsAssemblyInfo.cs
