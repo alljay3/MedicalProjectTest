@@ -666,6 +666,9 @@
       },
       "System.Threading.Channels/7.0.0": {},
       "MedicalHistory.Application/1.0.0": {
+        "dependencies": {
+          "MedicalHistory.Core": "1.0.0"
+        },
         "runtime": {
           "MedicalHistory.Application.dll": {
             "assemblyVersion": "1.0.0",

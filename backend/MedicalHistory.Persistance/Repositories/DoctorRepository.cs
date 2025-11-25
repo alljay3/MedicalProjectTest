@@ -1,11 +1,12 @@
 using System.Reflection;
+using MedicalHistory.Core.Interfaces.Repositories;
 using MedicalHistory.Core.Models;
 using MedicalHistory.Persistance.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace MedicalHistory.Persistance.Repositories;
 
-public class DoctorRepository
+public class DoctorRepository : IDoctorRepository
 {
     private readonly MedicalHistoryDbContext _context;
 
@@ -14,7 +15,7 @@ public class DoctorRepository
         _context = context;
     }
      
-    public async Task Add(Doctor doctor)
+    public async Task<Guid> Create(Doctor doctor)
     {
         var doctorEntity = new DoctorEntity()
         {
@@ -28,12 +29,13 @@ public class DoctorRepository
         };
         await _context.AddAsync(doctorEntity);
         await _context.SaveChangesAsync();
+        return doctor.Id;
     }
 
     public async Task<Doctor> Get(Guid id)
     {
         var doctorEntity = await _context.Doctors.AsNoTracking().FirstOrDefaultAsync(doc => doc.Id == id) ?? throw new Exception();
-        return new Doctor(doctorEntity.Id, doctorEntity.FirstName, doctorEntity.LastName, doctorEntity.Patronymic, doctorEntity.Specialization, doctorEntity.Gender, doctorEntity.BirthDate);
+        return Doctor.Create(doctorEntity.Id, doctorEntity.FirstName, doctorEntity.LastName, doctorEntity.Patronymic, doctorEntity.Specialization, doctorEntity.Gender, doctorEntity.BirthDate);
     }
 
 
@@ -55,6 +57,13 @@ public class DoctorRepository
         await _context.Doctors.Where(doc => doc.Id == id)
             .ExecuteDeleteAsync();
         return id;
+    }
+
+    public async Task<List<Doctor>> GetAll()
+    {
+        var doctorEntity = await _context.Doctors.AsNoTracking().ToListAsync();
+        var doctors = doctorEntity.Select(doc => Doctor.Create(doc.Id, doc.FirstName, doc.LastName, doc.Patronymic, doc.Specialization, doc.Gender, doc.BirthDate)).ToList();
+        return doctors;
     }
 
 

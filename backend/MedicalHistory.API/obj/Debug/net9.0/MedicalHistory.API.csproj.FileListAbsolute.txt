@@ -138,3 +138,4 @@ E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\b
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
 E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\CSHARP\NetProject\MedicalProjectTest\backend\MedicalHistory.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

@@ -15,7 +15,7 @@ public class PatientRepository : IPatientRepository
     }
 
 
-    public async Task Add(Patient patient)
+    public async Task<Guid> Create(Patient patient)
     {
         var patientEntity = new PatientEntity()
         {
@@ -28,12 +28,13 @@ public class PatientRepository : IPatientRepository
         };
         await _context.AddAsync(patientEntity);
         await _context.SaveChangesAsync();
+        return patient.Id;
     }
 
     public async Task<Patient> Get(Guid id)
     {
         var patientEntity = await _context.Patients.AsNoTracking().FirstOrDefaultAsync(doc => doc.Id == id) ?? throw new Exception();
-        return new Patient(patientEntity.Id, patientEntity.FirstName, patientEntity.LastName, patientEntity.Patronymic, patientEntity.Gender, patientEntity.BirthDate);
+        return Patient.Create(patientEntity.Id, patientEntity.FirstName, patientEntity.LastName, patientEntity.Patronymic, patientEntity.Gender, patientEntity.BirthDate);
     }
 
 
@@ -54,6 +55,13 @@ public class PatientRepository : IPatientRepository
         await _context.Patients.Where(p => p.Id == id)
             .ExecuteDeleteAsync();
         return id;
+    }
+
+    public async Task<List<Patient>> GetAll()
+    {
+        var patientEntity = await _context.Patients.AsNoTracking().ToListAsync();
+        var patients = patientEntity.Select(p => Patient.Create(p.Id, p.FirstName, p.LastName, p.Patronymic, p.Gender, p.BirthDate)).ToList();
+        return patients;
     }
 
 }

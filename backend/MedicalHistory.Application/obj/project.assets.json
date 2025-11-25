@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "MedicalHistory.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MedicalHistory.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MedicalHistory.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MedicalHistory.Core/1.0.0": {
+      "type": "project",
+      "path": "../MedicalHistory.Core/MedicalHistory.Core.csproj",
+      "msbuildProject": "../MedicalHistory.Core/MedicalHistory.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "MedicalHistory.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mihas\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\MedicalHistory.Core.csproj": {
+              "projectPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\MedicalHistory.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
