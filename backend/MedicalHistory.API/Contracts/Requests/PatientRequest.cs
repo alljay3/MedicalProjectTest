@@ -2,7 +2,6 @@
 
 public record PatientRequest
 (
-    Guid Id,
     string FirstName,
     string LastName,
     string Patronymic,

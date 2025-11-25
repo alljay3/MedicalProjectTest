@@ -21,8 +21,4 @@
     <ProjectReference Include="..\MedicalHistory.Persistance\MedicalHistory.Persistance.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Contracts\Requests\" />
-  </ItemGroup>
-
 </Project>

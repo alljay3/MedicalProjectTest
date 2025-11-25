@@ -20,7 +20,7 @@ public class DiseaseRepository : IDiseaseRepository
     {
         DoctorEntity doctorEntity = await _context.Doctors.AsNoTracking().FirstOrDefaultAsync(doc => doc.Id == disease.AttendingDoctor.Id) ?? throw new Exception();
         PatientEntity patientEntity = await _context.Patients.AsNoTracking().FirstOrDefaultAsync(p => p.Id == disease.CurrentPatient.Id) ?? throw new Exception();
-        var DiseaseEntity = new DiseaseEntity()
+        var diseaseEntity = new DiseaseEntity()
         {
             Id = disease.Id,
             Name = disease.Name,
@@ -30,7 +30,9 @@ public class DiseaseRepository : IDiseaseRepository
             Symptoms = disease.Symptoms,
             Treatment = disease.Treatment
         };
-        await _context.AddAsync(DiseaseEntity);
+        _context.Entry(diseaseEntity.CurrentPatient).State = EntityState.Unchanged;
+        _context.Entry(diseaseEntity.AttendingDoctor).State = EntityState.Unchanged;
+        await _context.AddAsync(diseaseEntity);
         await _context.SaveChangesAsync();
         return disease.Id;
     }
@@ -45,16 +47,33 @@ public class DiseaseRepository : IDiseaseRepository
 
     public async Task<Guid> Update(Disease disease)
     {
-        DoctorEntity doctorEntity = await _context.Doctors.AsNoTracking().FirstOrDefaultAsync(doc => doc.Id == disease.AttendingDoctor.Id) ?? throw new Exception();
-        PatientEntity patientEntity = await _context.Patients.AsNoTracking().FirstOrDefaultAsync(p => p.Id == disease.CurrentPatient.Id) ?? throw new Exception();
-        await _context.Diseases.Where(d => d.Id == disease.Id)
-           .ExecuteUpdateAsync(s => s
-           .SetProperty(s => s.Name, disease.Name)
-           .SetProperty(s => s.CurrentPatient, patientEntity)
-           .SetProperty(s => s.AttendingDoctor, doctorEntity)
-           .SetProperty(s => s.DiagnosisDate, disease.DiagnosisDate)
-           .SetProperty(s => s.Symptoms, disease.Symptoms)
-           .SetProperty(s => s.Treatment, disease.Treatment));
+       
+        var diseaseEntity = await _context.Diseases
+            .Include(d => d.CurrentPatient)
+            .Include(d => d.AttendingDoctor)
+            .FirstOrDefaultAsync(d => d.Id == disease.Id)
+            ?? throw new Exception("Disease not found");
+
+        diseaseEntity.Name = disease.Name;
+        diseaseEntity.DiagnosisDate = disease.DiagnosisDate;
+        diseaseEntity.Symptoms = disease.Symptoms;
+        diseaseEntity.Treatment = disease.Treatment;
+
+        if (diseaseEntity.AttendingDoctor?.Id != disease.AttendingDoctor.Id)
+        {
+            var newDoctor = new DoctorEntity { Id = disease.AttendingDoctor.Id };
+            _context.Attach(newDoctor);
+            diseaseEntity.AttendingDoctor = newDoctor;
+        }
+
+        if (diseaseEntity.CurrentPatient?.Id != disease.CurrentPatient.Id)
+        {
+            var newPatient = new PatientEntity { Id = disease.CurrentPatient.Id };
+            _context.Attach(newPatient);
+            diseaseEntity.CurrentPatient = newPatient;
+        }
+
+        await _context.SaveChangesAsync();
         return disease.Id;
     }
 

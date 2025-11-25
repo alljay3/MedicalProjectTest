@@ -3,10 +3,10 @@
 namespace MedicalHistory.API.Contracts.Requests;
 
 public record DiseaseRequest
-(Guid Id,
+(
     string Name,
-    Patient CurrentPatient,
-    Doctor AttendingDoctor,
+    Guid CurrentPatient,
+    Guid AttendingDoctor,
     string Symptoms,
     string Treatment,
     DateTime DiagnosisDate

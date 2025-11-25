@@ -1,6 +1,6 @@
 ﻿namespace MedicalHistory.API.Contracts.Responces;
 
-public record PersonResponse(
+public record PatientResponse(
     Guid Id,
     string FirstName,
     string LastName,

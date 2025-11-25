@@ -3,128 +3,56 @@
   "WorkspaceRootPath": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\repositories\\diseaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\repositories\\diseaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\medicalhistory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\medicalhistory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\controllers\\diseasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\controllers\\diseasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\contracts\\requests\\diseaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\contracts\\requests\\diseaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75452B91-F10F-4A14-9C0B-A840F7F03952}|MedicalHistory.Application\\MedicalHistory.Application.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75452B91-F10F-4A14-9C0B-A840F7F03952}|MedicalHistory.Application\\MedicalHistory.Application.csproj|solutionrelative:medicalhistory.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\contracts\\responses\\diseaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\contracts\\responses\\diseaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.core\\interfaces\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|solutionrelative:medicalhistory.core\\interfaces\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\contracts\\responses\\patientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\contracts\\responses\\patientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75452B91-F10F-4A14-9C0B-A840F7F03952}|MedicalHistory.Application\\MedicalHistory.Application.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75452B91-F10F-4A14-9C0B-A840F7F03952}|MedicalHistory.Application\\MedicalHistory.Application.csproj|solutionrelative:medicalhistory.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\contracts\\requests\\doctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\contracts\\requests\\doctorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\contracts\\requests\\patientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\contracts\\requests\\patientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\contracts\\responses\\doctorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\contracts\\responses\\doctorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B333F44B-4437-4AAD-AFE1-2E2DC1357912}|MedicalHistory.API\\MedicalHistory.API.csproj|solutionrelative:medicalhistory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.core\\interfaces\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|solutionrelative:medicalhistory.core\\interfaces\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75452B91-F10F-4A14-9C0B-A840F7F03952}|MedicalHistory.Application\\MedicalHistory.Application.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.application\\services\\diseaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75452B91-F10F-4A14-9C0B-A840F7F03952}|MedicalHistory.Application\\MedicalHistory.Application.csproj|solutionrelative:medicalhistory.application\\services\\diseaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.core\\interfaces\\services\\idiseaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|solutionrelative:medicalhistory.core\\interfaces\\services\\idiseaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|solutionrelative:medicalhistory.core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.core\\interfaces\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|solutionrelative:medicalhistory.core\\interfaces\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.core\\interfaces\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|solutionrelative:medicalhistory.core\\interfaces\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.core\\interfaces\\repositories\\idiseaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|solutionrelative:medicalhistory.core\\interfaces\\repositories\\idiseaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\repositories\\diseaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\repositories\\diseaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\medicalhistorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\medicalhistorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\medicalhistory.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\medicalhistory.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.core\\medicalhistory.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8F1CD23-3A2A-408F-9A93-434E5B96CA11}|MedicalHistory.Core\\MedicalHistory.Core.csproj|solutionrelative:medicalhistory.core\\medicalhistory.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75452B91-F10F-4A14-9C0B-A840F7F03952}|MedicalHistory.Application\\MedicalHistory.Application.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.application\\medicalhistory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{75452B91-F10F-4A14-9C0B-A840F7F03952}|MedicalHistory.Application\\MedicalHistory.Application.csproj|solutionrelative:medicalhistory.application\\medicalhistory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\medicalhistory.persistance.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\medicalhistory.persistance.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\entities\\patiententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\entities\\patiententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\entities\\doctorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\entities\\doctorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\entities\\diseaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\entities\\diseaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\mappers\\patientmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\mappers\\patientmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\mappers\\doctormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\mappers\\doctormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|e:\\programming\\csharp\\netproject\\medicalprojecttest\\backend\\medicalhistory.persistance\\mappers\\diseasemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3FF2A52-0A78-4FDA-869C-31B9A574AB33}|MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj|solutionrelative:medicalhistory.persistance\\mappers\\diseasemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -143,45 +71,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.API\\Controllers\\PatientController.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\PatientController.cs*",
-              "RelativeToolTip": "MedicalHistory.API\\Controllers\\PatientController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Title": "DiseaseRepository.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Repositories\\DiseaseRepository.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Repositories\\DiseaseRepository.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Repositories\\DiseaseRepository.cs",
+              "RelativeToolTip": "MedicalHistory.Persistance\\Repositories\\DiseaseRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwFEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:13:41.369Z",
+              "WhenOpened": "2025-11-25T13:55:31.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.API\\WeatherForecast.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\WeatherForecast.cs",
-              "RelativeToolTip": "MedicalHistory.API\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:12:25.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MedicalHistory.API\\Controllers\\WeatherForecastController.cs",
+              "DocumentIndex": 8,
+              "Title": "PatientRequest.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Requests\\PatientRequest.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Contracts\\Requests\\PatientRequest.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Requests\\PatientRequest.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Contracts\\Requests\\PatientRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:12:21.492Z",
+              "WhenOpened": "2025-11-25T13:39:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorRequest.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Requests\\DoctorRequest.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Contracts\\Requests\\DoctorRequest.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Requests\\DoctorRequest.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Contracts\\Requests\\DoctorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:39:26.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientResponse.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Responses\\PatientResponse.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Contracts\\Responses\\PatientResponse.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Responses\\PatientResponse.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Contracts\\Responses\\PatientResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:39:18.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DiseaseResponse.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Responses\\DiseaseResponse.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Contracts\\Responses\\DiseaseResponse.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Responses\\DiseaseResponse.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Contracts\\Responses\\DiseaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:39:16.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiseaseRequest.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Requests\\DiseaseRequest.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Contracts\\Requests\\DiseaseRequest.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Requests\\DiseaseRequest.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Contracts\\Requests\\DiseaseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:38:28.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\appsettings.json",
               "RelativeDocumentMoniker": "MedicalHistory.API\\appsettings.json",
@@ -189,338 +156,86 @@
               "RelativeToolTip": "MedicalHistory.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T12:09:52.448Z",
+              "WhenOpened": "2025-11-25T13:36:26.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "MedicalHistory.API\\appsettings.Development.json",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\appsettings.Development.json",
-              "RelativeToolTip": "MedicalHistory.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T12:09:49.711Z",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Controllers\\PatientController.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:36:12.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPatientService.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Services\\IPatientService.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Core\\Interfaces\\Services\\IPatientService.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Services\\IPatientService.cs",
-              "RelativeToolTip": "MedicalHistory.Core\\Interfaces\\Services\\IPatientService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DiseaseController.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\DiseaseController.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Controllers\\DiseaseController.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\DiseaseController.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Controllers\\DiseaseController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:08:36.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IDoctorService.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Services\\IDoctorService.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Core\\Interfaces\\Services\\IDoctorService.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Services\\IDoctorService.cs",
-              "RelativeToolTip": "MedicalHistory.Core\\Interfaces\\Services\\IDoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:07:49.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IDiseaseService.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Services\\IDiseaseService.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Core\\Interfaces\\Services\\IDiseaseService.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Services\\IDiseaseService.cs",
-              "RelativeToolTip": "MedicalHistory.Core\\Interfaces\\Services\\IDiseaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:06:48.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Core\\Models\\Doctor.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Models\\Doctor.cs",
-              "RelativeToolTip": "MedicalHistory.Core\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:02:47.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PatientService.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\Services\\PatientService.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Application\\Services\\PatientService.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\Services\\PatientService.cs",
-              "RelativeToolTip": "MedicalHistory.Application\\Services\\PatientService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:13:05.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\Services\\DoctorService.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Application\\Services\\DoctorService.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\Services\\DoctorService.cs",
-              "RelativeToolTip": "MedicalHistory.Application\\Services\\DoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:12:58.122Z"
+              "WhenOpened": "2025-11-25T13:36:11.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "DiseaseService.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\Services\\DiseaseService.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Application\\Services\\DiseaseService.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\Services\\DiseaseService.cs",
-              "RelativeToolTip": "MedicalHistory.Application\\Services\\DiseaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:12:01.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IPatientRepository.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Repositories\\IPatientRepository.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Core\\Interfaces\\Repositories\\IPatientRepository.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Repositories\\IPatientRepository.cs",
-              "RelativeToolTip": "MedicalHistory.Core\\Interfaces\\Repositories\\IPatientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:55:38.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IDoctorRepository.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Repositories\\IDoctorRepository.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Core\\Interfaces\\Repositories\\IDoctorRepository.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Repositories\\IDoctorRepository.cs",
-              "RelativeToolTip": "MedicalHistory.Core\\Interfaces\\Repositories\\IDoctorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:55:37.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Program.cs",
               "RelativeDocumentMoniker": "MedicalHistory.API\\Program.cs",
               "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Program.cs",
               "RelativeToolTip": "MedicalHistory.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:55:10.227Z",
+              "WhenOpened": "2025-11-25T13:35:30.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MedicalHistoryDbContext.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistoryDbContext.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\MedicalHistoryDbContext.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistoryDbContext.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\MedicalHistoryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Controllers\\DoctorController.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:54:59.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MedicalHistory.Persistance",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
-              "RelativeToolTip": "MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T03:52:26.427Z",
+              "WhenOpened": "2025-11-25T13:33:41.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MedicalHistory.Persistance.csproj",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
-              "RelativeToolTip": "MedicalHistory.Persistance\\MedicalHistory.Persistance.csproj",
+              "DocumentIndex": 10,
+              "Title": "DoctorResponse.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Responses\\DoctorResponse.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.API\\Contracts\\Responses\\DoctorResponse.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\Contracts\\Responses\\DoctorResponse.cs",
+              "RelativeToolTip": "MedicalHistory.API\\Contracts\\Responses\\DoctorResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T03:48:23.788Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:33:40.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "PatientEntity.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Entities\\PatientEntity.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Entities\\PatientEntity.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Entities\\PatientEntity.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Entities\\PatientEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Services\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "MedicalHistory.Core\\Interfaces\\Services\\IDoctorService.cs",
+              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Services\\IDoctorService.cs",
+              "RelativeToolTip": "MedicalHistory.Core\\Interfaces\\Services\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:50:02.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DoctorEntity.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Entities\\DoctorEntity.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Entities\\DoctorEntity.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Entities\\DoctorEntity.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Entities\\DoctorEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:50:01.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DiseaseEntity.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Entities\\DiseaseEntity.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Entities\\DiseaseEntity.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Entities\\DiseaseEntity.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Entities\\DiseaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:50:01.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MedicalHistory.API.csproj",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\MedicalHistory.API.csproj",
-              "RelativeDocumentMoniker": "MedicalHistory.API\\MedicalHistory.API.csproj",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.API\\MedicalHistory.API.csproj",
-              "RelativeToolTip": "MedicalHistory.API\\MedicalHistory.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T03:48:32.241Z",
+              "WhenOpened": "2025-11-25T13:26:07.081Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MedicalHistory.Application.csproj",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj",
-              "RelativeDocumentMoniker": "MedicalHistory.Application\\MedicalHistory.Application.csproj",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Application\\MedicalHistory.Application.csproj",
-              "RelativeToolTip": "MedicalHistory.Application\\MedicalHistory.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T03:48:28.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MedicalHistory.Core.csproj",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\MedicalHistory.Core.csproj",
-              "RelativeDocumentMoniker": "MedicalHistory.Core\\MedicalHistory.Core.csproj",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\MedicalHistory.Core.csproj",
-              "RelativeToolTip": "MedicalHistory.Core\\MedicalHistory.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T03:47:34.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "PatientMapper.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Mappers\\PatientMapper.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Mappers\\PatientMapper.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Mappers\\PatientMapper.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Mappers\\PatientMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:47:23.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DoctorMapper.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Mappers\\DoctorMapper.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Mappers\\DoctorMapper.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Mappers\\DoctorMapper.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Mappers\\DoctorMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:47:22.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "DiseaseMapper.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Mappers\\DiseaseMapper.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Mappers\\DiseaseMapper.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Mappers\\DiseaseMapper.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Mappers\\DiseaseMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:43:26.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PatientRepository.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Repositories\\PatientRepository.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Repositories\\PatientRepository.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Repositories\\PatientRepository.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Repositories\\PatientRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:40:44.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Repositories\\DoctorRepository.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Repositories\\DoctorRepository.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Repositories\\DoctorRepository.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Repositories\\DoctorRepository.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwD0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:40:42.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DiseaseRepository.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Repositories\\DiseaseRepository.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Persistance\\Repositories\\DiseaseRepository.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Persistance\\Repositories\\DiseaseRepository.cs",
-              "RelativeToolTip": "MedicalHistory.Persistance\\Repositories\\DiseaseRepository.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:40:41.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IDiseaseRepository.cs",
-              "DocumentMoniker": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Repositories\\IDiseaseRepository.cs",
-              "RelativeDocumentMoniker": "MedicalHistory.Core\\Interfaces\\Repositories\\IDiseaseRepository.cs",
-              "ToolTip": "E:\\Programming\\CSHARP\\NetProject\\MedicalProjectTest\\backend\\MedicalHistory.Core\\Interfaces\\Repositories\\IDiseaseRepository.cs",
-              "RelativeToolTip": "MedicalHistory.Core\\Interfaces\\Repositories\\IDiseaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T03:40:40.443Z"
             }
           ]
         }
