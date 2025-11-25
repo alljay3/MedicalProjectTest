@@ -39,5 +39,8 @@ public class DoctorService : IDoctorService
         var doctors = await _doctorRepository.GetAll();
         var doctorBySpec = doctors.Where(d => d.Specialization == specialization).ToList();
         return doctorBySpec;
+    }    public async Task<List<Doctor>> GetAllDoctors()
+    {
+        return await _doctorRepository.GetAll();
     }
 }

@@ -8,4 +8,6 @@ public interface IDoctorService
     Task<Doctor> GetDoctor(Guid id);
     Task<List<Doctor>> GetDoctorsBySpecialization(string specialization);
     Task<Guid> UpdateDoctor(Doctor doctor);
+
+    Task<List<Doctor>> GetAllDoctors();
 }
