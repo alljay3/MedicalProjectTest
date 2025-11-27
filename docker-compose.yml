@@ -36,6 +36,18 @@ services:
     networks:
       - dev
 
+
+  medfrontend:
+    container_name: frontend
+    image: ${DOCKER_REGISTRY-}medfront
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    networks:
+      - dev
+
 volumes:
   medical_data:
 
