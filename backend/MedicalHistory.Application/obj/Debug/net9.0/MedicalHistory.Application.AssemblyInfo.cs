@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedicalHistory.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3a14f25b735ea87f6cc759365e23f76ac1b375d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53d40db8afeadea4cc6d6801593e2ddaf91b38e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedicalHistory.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedicalHistory.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,6 +10,47 @@ services:
       - "medical_data:/var/lib/postgresql/data"
     ports:
       - "5432:5432"
+    healthcheck:
+        test: ["CMD-SHELL", "pg_isready -U postgres -d db"]
+        interval: 5s      
+        timeout: 5s       
+        retries: 10      
+        start_period: 5s 
+    networks:
+      - dev
+  
+  medbackend:
+    container_name: backend
+    image: ${DOCKER_REGISTRY-}medapi
+    build:
+      context: ./backend
+      dockerfile: MedicalHistory.API/Dockerfile
+    environment:
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ASPNETCORE_ENVIRONMENT=Docker
+    ports:
+      - "8080:8080"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - dev
+
+
+  medfrontend:
+    container_name: frontend
+    image: ${DOCKER_REGISTRY-}medfront
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    networks:
+      - dev
 
 volumes:
   medical_data:
+
+networks:
+  dev:
+    driver: bridge
